@@ -1,0 +1,5 @@
+**web scrape  23/03/23**
+
+to install beautifull soupe, type 'pip install bs4' in system terminal
+if system terminal is not available and only python terminal is available type 'exit()' to get system terminal.
+beautiful soupe is for getting the tag
